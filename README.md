@@ -8,5 +8,8 @@
 
 >Esto es una cita 
 
--esto es una lista  
-    -esto es una lista anidada
+-esto es una lista desordenada  
+    -esto es una lista anidada           //Se supone que con 4 espacios antes del guión se deberia anidar
+
+1. esto es una lista ordenada
+    -este es una lista anidada    
