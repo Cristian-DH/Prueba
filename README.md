@@ -9,7 +9,7 @@
 >Esto es una cita 
 
 -esto es una lista desordenada    
-    -esto es una lista anidada           //Se supone que con 4 espacios antes del guión se deberia anidar
+    -esto es una lista anidada           //Se supone que con 4 espacios antes del guión se deberia anidar pero no funciona
 
 1. esto es una lista ordenada  
     -esto es una lista anidada    
